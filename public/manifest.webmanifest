@@ -1,0 +1,9 @@
+{
+  "name": "Treino Jhow",
+  "short_name": "Treino Jhow",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b12",
+  "theme_color": "#070b12",
+  "description": "Treino e hidratação do Jhow"
+}
